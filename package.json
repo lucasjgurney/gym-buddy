@@ -1,0 +1,12 @@
+{
+	"name": "pilaestra-exercies-api",
+	"main": "server.js",
+	"dependencies": {
+		"express": "~4.0.0",
+		"mongoose": "~3.6.13",
+		"body-parser": "~1.0.1",
+		"colors": "~1.1.2",
+		"jsonwebtoken": "~5.5.4",
+		"morgan": "~1.6.1"
+	}
+}
